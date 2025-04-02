@@ -21,6 +21,7 @@ Fortsæt derefter med den næste fil."""
 import random
 
 
+
 class Miner:
     def __init__(self, sleepiness=0, thirst=0, hunger=0, whisky=0, gold=0, turn=0):
         self.sleepiness = sleepiness
